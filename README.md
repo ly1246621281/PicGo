@@ -1,7 +1,7 @@
 # PicGo
 图床仓库
-<h5>Token:</h5> Personal access tokens
-[<h5>PicGo github</h5>](https://github.com/Molunerfinn/PicGo)
+<h5>Token:</h5> **Personal access tokens**
+[PicGo github](https://github.com/Molunerfinn/PicGo)
 <div align="center">
   <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" alt="">
   <h1>PicGo</h1>
